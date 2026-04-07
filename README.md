@@ -1,7 +1,5 @@
-# FedGNN-Explain-Nigeria
+# FedGNN-Explain-Nigeria 🇳🇬
 Federated Graph Neural Networks for Explainable Fraud Detection in the Nigerian Mobile Money Ecosystem
-# FedGNN-Explain 🇳🇬
-### Federated Graph Neural Networks for Explainable Fraud Detection
 
 This project implements a privacy-preserving GNN framework tailored for the Nigerian financial ecosystem (OPay, GTBank, PalmPay).
 

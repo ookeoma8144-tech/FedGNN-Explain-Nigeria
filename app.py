@@ -96,4 +96,4 @@ with col2:
     st.pyplot(fig)
 
 st.divider()
-st.caption("FedGNN-Explain Prototype © 2026 | Developed for [Your University Name] Seminar Series")
+st.caption("FedGNN-Explain Prototype © 2026 | Developed for Miva Open University")
